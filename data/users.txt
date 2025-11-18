@@ -1,0 +1,5 @@
+0176AL231102|Rounak yadav|gmail.com|cse|2025|xxxxxxx|m|2003 12 20|bhopal|narendra|Play12er
+enrollment|name|email|branch|year|contact|gender|dob|address|guardian|password
+enrollment|name|email|branch|year|contact|gender|dob|address|guardian|password
+1102|rounak|qq|play|1|1|1|1|1|1
+0176|qw|as@gmail.com|play|qw|qw|qw|qw|qw|qw

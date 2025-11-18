@@ -1,0 +1,30 @@
+DSA|Which data structure uses LIFO?|Queue|Stack|Linked List|Array|Stack
+DSA|Which algorithm is used for sorting in O(n log n) time?|Bubble|Quick|Insertion|Selection|Quick
+DSA|Which data structure is used in recursion?|Array|Stack|Queue|Linked List|Stack
+DSA|Which traversal gives sorted output in BST?|Preorder|Postorder|Inorder|Levelorder|Inorder
+DSA|Which searching algorithm works on sorted arrays?|Linear|Binary|Jump|Hash|Binary
+DSA|Which data structure supports FIFO?|Stack|Queue|Heap|Tree|Queue
+DSA|Which algorithm is used for finding shortest path?|Dijkstra|Kruskal|Prim|Floyd|Dijkstra
+DSA|Which is a self-balancing binary search tree?|AVL|B Tree|Binary|Heap|AVL
+DSA|Which data structure is used to implement priority queue?|Heap|Stack|Array|Queue|Heap
+DSA|Which data structure is used in BFS?|Queue|Stack|Tree|Heap|Queue
+DBMS|Which SQL keyword retrieves data?|GET|EXTRACT|SELECT|PULL|SELECT
+DBMS|Which key uniquely identifies a record?|Primary Key|Foreign Key|Candidate Key|Super Key|Primary Key
+DBMS|Which command removes all records from a table?|DELETE|DROP|TRUNCATE|REMOVE|TRUNCATE
+DBMS|Which clause filters rows?|WHERE|GROUP BY|ORDER BY|HAVING|WHERE
+DBMS|Which function counts rows?|SUM|COUNT|AVG|MAX|COUNT
+DBMS|Which constraint ensures uniqueness?|PRIMARY KEY|CHECK|DEFAULT|FOREIGN KEY|PRIMARY KEY
+DBMS|Which command modifies existing data?|UPDATE|INSERT|ALTER|SELECT|UPDATE
+DBMS|Which key can be null?|Primary Key|Foreign Key|Unique Key|Composite Key|Foreign Key
+DBMS|Which operator combines results of two queries?|UNION|JOIN|INTERSECT|MERGE|UNION
+DBMS|Which clause groups rows?|ORDER BY|GROUP BY|WHERE|HAVING|GROUP BY
+PYTHON|Which keyword defines a function?|function|fun|def|define|def
+PYTHON|Which symbol is used for comments?|$|#|%|//|#
+PYTHON|Which data type is immutable?|List|Set|Dictionary|Tuple|Tuple
+PYTHON|Which function returns the length of a string?|size()|count()|len()|length()|len()
+PYTHON|Which module is used for random numbers?|math|random|numbers|time|random
+PYTHON|Which statement is used for exception handling?|try-except|catch|throw|error|try-except
+PYTHON|Which operator is used for exponentiation?|^|**|*|//|**
+PYTHON|Which keyword is used to create a class?|class|def|struct|new|class
+PYTHON|Which function converts string to integer?|str()|int()|float()|eval()|int()
+PYTHON|Which of these is used to get user input?|input()|scan()|cin|get()|input()
